@@ -1,0 +1,9 @@
+.account{
+    padding: 150px 0;
+}
+
+@media(max-width: 414px){
+    .account{
+        padding: 70px 0;
+    }
+}
